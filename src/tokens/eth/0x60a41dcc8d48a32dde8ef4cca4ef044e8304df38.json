@@ -1,0 +1,26 @@
+{
+  "symbol": "AXM",
+  "name": "Assam",
+  "type": "ERC20",
+  "address": "0x60a41dcc8d48a32dde8ef4cca4ef044e8304df38",
+  "ens_address": "",
+  "decimals": 18,
+  "website": "https://assamtoken.xyz",
+  "logo": { "src": "https://assamtoken.xyz/wp-content/uploads/2019/05/axm.png", "width": "50px", "height": "50px", "ipfs_hash": "" },
+  "support": { "email": "support@assamtoken.xyz", "url": "" },
+  "social": {
+    "blog": "",
+    "chat": "",
+    "facebook": "https://www.facebook.com/axmtoken",
+    "forum": "",
+    "github": "https://www.github.com/mahamihirion/axmtoken",
+    "gitter": "",
+    "instagram": "",
+    "linkedin": "",
+    "reddit": "",
+    "slack": "",
+    "telegram": "",
+    "twitter": "",
+    "youtube": ""
+  }
+}
